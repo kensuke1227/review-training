@@ -1,4 +1,4 @@
-git checkout -b db_design main
+git checkout -b db_design master
 cp ~/projects/furima-review/README.md ~/projects/review-training/
 git add .
 git commit -m 'DB Design'

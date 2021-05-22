@@ -1,4 +1,4 @@
-git checkout -b item_order main
+git checkout -b item_order master
 cp ~/projects/furima-review/Gemfile ~/projects/review-training/
 cp ~/projects/furima-review/app/javascript/packs/application.js ~/projects/review-training//app/javascript/packs/
 cp ~/projects/furima-review/app/models/item.rb ~/projects/review-training/app/models/
